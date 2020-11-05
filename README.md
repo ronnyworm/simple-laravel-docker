@@ -2,7 +2,8 @@
 
 ```bash
 git clone https://github.com/yahyazini/simple-laravel-docker.git
-cd simple-laravel-docker
+
+cd simple-laravel-docker # or check out start.sh and nextcommands.sh
 git clone https://github.com/laravel/laravel.git web/src #or place your laravel app inside web/src
 docker-compose up
 #On a nother command propmt from the simple-laravel-docker location run:
